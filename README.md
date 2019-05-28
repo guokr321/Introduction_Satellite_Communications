@@ -2,5 +2,5 @@
 #### Institut Mines-Télécom || coursera.org
 
 - SEMANA 1
- - Satellites at our service
+  - Satellites at our service
  
